@@ -2,7 +2,7 @@
 
 ## JS:
 
-### !!Don't add '.' to classList.add('class');
+### !! Don't add '.' to classList.add('class');
 ---
 ### Event Listner : transitionend 
     What is the transitionend event?
